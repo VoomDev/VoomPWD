@@ -3,7 +3,6 @@ voompwd
 
 Voom version of famous mac command pwd
 
-[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/voompwd.svg)](https://npmjs.org/package/voompwd)
 [![Downloads/week](https://img.shields.io/npm/dw/voompwd.svg)](https://npmjs.org/package/voompwd)
 [![License](https://img.shields.io/npm/l/voompwd.svg)](https://github.com/voomteam/voompwd/blob/master/package.json)
@@ -15,7 +14,7 @@ Voom version of famous mac command pwd
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g voompwd
+$ npm install -g @bit/voom.voomcli.voom
 $ voompwd COMMAND
 running command...
 $ voompwd (-v|--version|version)
